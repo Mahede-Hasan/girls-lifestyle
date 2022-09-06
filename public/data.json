@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "img": "images/girl (1).jpg",
+      "name": "Girls fasion",
+      "description": "The clothes a person wears tells us many things: their status in life, for example, or their cultural affiliation or identity. They can tell us what era they live in, and even a person’s current state of mind or intent. Understanding how to describe clothing in a story well will help you create fuller, richer character portraits.",
+      "price": 210
+    },
+    {
+      "id": 2,
+      "img": "images/girl (2).jpg",
+      "name": "girls fasion",
+      "description": "The clothes a person wears tells us many things: their status in life, for example, or their cultural affiliation or identity. They can tell us what era they live in, and even a person’s current state of mind or intent. Understanding how to describe clothing in a story well will help you create fuller, richer character portraits.",
+      "price": 280
+    },
+    {
+      "id": 3,
+      "img": "images/girl (3).jpg",
+      "name": "girls fasion",
+      "description": "The clothes a person wears tells us many things: their status in life, for example, or their cultural affiliation or identity. They can tell us what era they live in, and even a person’s current state of mind or intent. Understanding how to describe clothing in a story well will help you create fuller, richer character portraits.",
+      "price": 350
+    },
+    {
+      "id": 4,
+      "img": "images/girl (4).jpg",
+      "name": "girls fasion",
+      "description": "The clothes a person wears tells us many things: their status in life, for example, or their cultural affiliation or identity. They can tell us what era they live in, and even a person’s current state of mind or intent. Understanding how to describe clothing in a story well will help you create fuller, richer character portraits.",
+      "price": 180
+    },
+    {
+      "id": 5,
+      "img": "images/girl (5).jpg",
+      "name": "girls fasion",
+      "description": "The clothes a person wears tells us many things: their status in life, for example, or their cultural affiliation or identity. They can tell us what era they live in, and even a person’s current state of mind or intent. Understanding how to describe clothing in a story well will help you create fuller, richer character portraits.",
+      "price": 250
+    },
+    {
+      "id": 6,
+      "img": "images/girl (6).jpg",
+      "name": "girls fasion",
+      "description": "The clothes a person wears tells us many things: their status in life, for example, or their cultural affiliation or identity. They can tell us what era they live in, and even a person’s current state of mind or intent. Understanding how to describe clothing in a story well will help you create fuller, richer character portraits.",
+      "price": 210
+    },
+    {
+      "id": 7,
+      "img": "images/girl (7).jpg",
+      "name": "girls fasion",
+      "description": "The clothes a person wears tells us many things: their status in life, for example, or their cultural affiliation or identity. They can tell us what era they live in, and even a person’s current state of mind or intent. Understanding how to describe clothing in a story well will help you create fuller, richer character portraits.",
+      "price": 290
+    },
+    {
+      "id": 8,
+      "img": "images/girl (8).jpg",
+      "name": "girls fasion",
+      "description": "The clothes a person wears tells us many things: their status in life, for example, or their cultural affiliation or identity. They can tell us what era they live in, and even a person’s current state of mind or intent. Understanding how to describe clothing in a story well will help you create fuller, richer character portraits.",
+      "price": 270
+    },
+    {
+      "id": 9,
+      "img": "images/girl (9).jpg",
+      "name": "girls fasion",
+      "description": "The clothes a person wears tells us many things: their status in life, for example, or their cultural affiliation or identity. They can tell us what era they live in, and even a person’s current state of mind or intent. Understanding how to describe clothing in a story well will help you create fuller, richer character portraits.",
+      "price": 320
+    }
+  ]
